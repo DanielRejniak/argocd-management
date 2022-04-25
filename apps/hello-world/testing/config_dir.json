@@ -1,0 +1,12 @@
+{
+  "appName": "hello-world",
+  "userGivenName": "hello-world",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "test",
+  "srcRepoURL": "https://github.com/DanielRejniak/argocd-project.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "exclude": "",
+  "include": ""
+}
